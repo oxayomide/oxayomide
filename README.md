@@ -20,7 +20,7 @@ I'm Ayomide, a backend developer who loves building robust and scalable applicat
 
 
 ## 📈 GitHub Stats
-![Aluko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oxayomide&show_icons=true&theme=radical)
+![OxAyomide's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oxayomide&show_icons=true&theme=radical)
 
 ## 💻 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oxayomide&layout=compact&theme=radical)
