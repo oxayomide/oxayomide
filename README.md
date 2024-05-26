@@ -1,9 +1,9 @@
-# Hi there, I'm Aluko Ayomide! 👋
+# Hi there, I'm Ayomide! 👋
 
 Welcome Anon!
 
 ## 🚀 About Me
-I'm Aluko Ayomide, a backend developer who loves building robust and scalable applications. My journey in the tech world has been fueled by my curiosity and desire to solve complex problems. When I'm not coding, you can find me sharing my knowledge through technical writing.
+I'm Ayomide, a backend developer who loves building robust and scalable applications. My journey in the tech world has been fueled by my curiosity and desire to solve complex problems. When I'm not coding, you can find me sharing my knowledge through technical writing.
 
 ## 🛠️ My Tech Stack/ Technologies
 - **Backend Frameworks:** 
