@@ -31,9 +31,8 @@ I'm Ayomide, a backend developer who loves building robust and scalable applicat
 - **Twitter:** [@AyomiCoder](https://x.com/AyomiCoder)
 
 ## 📚 Technical Writing Blog
-<!-- BLOG-POST-LIST:START 
 - [Hashnode](https://oxayomide.hashnode.dev)
-<!-- BLOG-POST-LIST:END -->
+
 
 ## 📂 Portfolio
 - **[Portfolio](https://aluko.vercel.app):** My Personal Website.
